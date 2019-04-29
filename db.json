@@ -1,0 +1,137 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Short­Term Goals"
+    },
+    {
+      "id": 2,
+      "name": "Long­Term Goals"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Learn Redux",
+      "description": "The store, actions, and reducers, oh my!",
+      "status": "In Progress",
+      "timer": 152,
+      "projectId": 1
+    },
+    {
+      "id": 2,
+      "title": "Peace on Earth",
+      "description": "No big deal.",
+      "status": "Unstarted",
+      "timer": 132,
+      "projectId": 2
+    },
+    {
+      "id": 3,
+      "title": "Create Facebook for dogs",
+      "description": "The hottest new social network",
+      "status": "Unstarted",
+      "timer": 739,
+      "projectId": 1
+    },
+    {
+      "title": "Chapter 8, Orginize Store Data",
+      "description": "Normalized and neste store data organization",
+      "status": "Unstarted",
+      "id": 4
+    },
+    {
+      "title": "Chapter 8, Store data organiztion",
+      "description": "Nested vs Normalized store data organization",
+      "status": "Completed",
+      "projectId": 1,
+      "id": 5,
+      "timer": 53
+    },
+    {
+      "title": "add",
+      "description": "new",
+      "status": "Completed",
+      "projectId": 1,
+      "id": 6,
+      "timer": 83
+    },
+    {
+      "title": "New",
+      "description": "task ",
+      "status": "Completed",
+      "projectId": 1,
+      "id": 7,
+      "timer": 49
+    },
+    {
+      "title": "add",
+      "description": "an",
+      "status": "Unstarted",
+      "projectId": 1,
+      "id": 8,
+      "timer": 60
+    },
+    {
+      "title": "asdads",
+      "description": "adasdads",
+      "status": "Unstarted",
+      "projectId": 1,
+      "id": 9,
+      "timer": 418
+    },
+    {
+      "title": "adasdasd",
+      "description": "asdasdasd",
+      "status": "Unstarted",
+      "projectId": 1,
+      "id": 10,
+      "timer": 91
+    },
+    {
+      "title": "Project 2",
+      "description": "task",
+      "status": "Unstarted",
+      "projectId": "2",
+      "id": 11
+    },
+    {
+      "title": "New ",
+      "description": "2",
+      "status": "Unstarted",
+      "projectId": "2",
+      "id": 12
+    },
+    {
+      "title": "adadasd",
+      "description": "asdasd",
+      "status": "Unstarted",
+      "projectId": "2",
+      "id": 13
+    },
+    {
+      "title": "asdasda",
+      "description": "asdasd",
+      "status": "Unstarted",
+      "projectId": "2",
+      "id": 14,
+      "timer": 0
+    },
+    {
+      "title": "New",
+      "description": "New",
+      "status": "Unstarted",
+      "projectId": 1,
+      "id": 15,
+      "timer": 4702
+    },
+    {
+      "title": "Another ",
+      "description": "new task",
+      "status": "In Progress",
+      "projectId": 1,
+      "id": 16,
+      "timer": null
+    }
+  ]
+}
